@@ -1,3 +1,4 @@
+# This is a python based AWS Lambda
 def lambda_handler(event, context):
     return {
         'statusCode': 200,
